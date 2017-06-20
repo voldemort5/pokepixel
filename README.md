@@ -1,3 +1,3 @@
 # PokéPixelStaff
-PokéPixel - Offficial Github
-Vous permet de créer des tickets pour d'éventuelle bugs
+PokéPixel - Official Github
+Vous permet de créer des tickets pour d'éventuels bugs.
